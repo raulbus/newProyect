@@ -1,3 +1,6 @@
 Ensaliditas
 aceitunas
 ensaladilla
+ingrediente 1
+ingre2
+ingre3
