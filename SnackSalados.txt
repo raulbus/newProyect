@@ -4,3 +4,4 @@ doritos
 almendras
 lomo iberico
 jamon iberico
+jamoncillos
